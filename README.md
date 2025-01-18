@@ -1,4 +1,4 @@
-<div align="center"><h2>LiftLog - <a href="https://liftlog-shamikaredkar.netlify.app/"> Demo</a></h2>
+<div align="center"><h2>LiftLog - <a href="https://mohitliftlog.netlify.app/"> Demo</a></h2>
 </div>
 
 ## Overview
